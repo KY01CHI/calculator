@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-, "app/(tabs)/index.jsx", "components/CalcButton.jsx"  ]
+, "app/(tabs)/index.jsx", "components/CalcButton.jsx", "components/calculator/HistoryView.js", "components/calculator/CalcButton.js", "components/calculator/KeypadView.js", "components/calculator/CalcDisplay.js", "hooks/useCalculator.js"  ]
 }

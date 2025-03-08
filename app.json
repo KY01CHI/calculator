@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/calc.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ky01ch1.calculator"
     },
     "web": {
       "bundler": "metro",
@@ -36,6 +37,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4bcaf66f-de0f-4b53-b7b0-bec5bf7e3086"
+      }
     }
   }
 }
